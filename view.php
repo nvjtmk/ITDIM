@@ -404,7 +404,7 @@ class View
     // =======================
     public function tampilkanLabaRugiPerBarang($data)
     {
-        echo "<h2>Data Keuntungan Per Barang</h2>";
+        echo "<h2>Data Keuntungan dan Kerugian Per Barang</h2>";
         echo "<table border='1'>
                 <tr>
                     <th>Nama Barang</th>
