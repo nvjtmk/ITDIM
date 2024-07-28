@@ -389,13 +389,13 @@ class View
     <br>
     <br>
     <div class=\"group\">
-        <h2>Kelompok </h2>
+        <h2>Kelompok 5 - ITDIM</h2>
         <ul>
             <li>Febrianti Situmeang      (2702366413)</li>
             <li>Fendrina Yoarbanu Tjitra (2702468011)</li>
             <li>Nova Jatmiko             (2702467173)</li>
             <li>Yudhi Bima Alfuadi       (2702364540)</li>
-            <li>Adityo Candra Wirawan    (2702468900)</li>
+            <!--li>Adityo Candra Wirawan    (2702468900)</!--li>
         </ul>
     </div>
     ";
